@@ -1,3 +1,5 @@
+import ws2812b
+import utime
 import urandom
 
 numpix = 8
